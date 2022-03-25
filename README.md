@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @coder7874
 - 👀 I’m interested in ... learning new tech.
-- 🌱 I’m currently learning ...python
+- 🌱 I’m currently learning ...python, Django, Core PHP, Laravel
 - 💞️ I’m looking to collaborate on ...my skills
 - 📫 How to reach me ...Not Yet
 
