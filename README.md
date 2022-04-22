@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bhavin Gopani!
 - 👀 I’m interested in ... new projects.
-- 🌱 I’m currently learning ...python, Django, Core PHP, Laravel, Blockchain.
+- 🌱 I’m currently learning ...python, Django, Core PHP, Laravel, Blockchain, Vue.js , React.js etc.
 - 💞️ I’m looking to collaborate on ...Skype,Email, Zoom.
 - :speech_balloon: Ask me about tech.
 - 📫 How to reach me ...Skype,Email, Zoom.
